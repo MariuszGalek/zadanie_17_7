@@ -1,1 +1,1 @@
-Zadanie 17_6 - ExpressJS - Google authorization
+Zadanie 17_7 - ExpressJS - Google authorization
